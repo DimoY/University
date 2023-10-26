@@ -3,8 +3,8 @@
   "search": "",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -22,65 +22,65 @@
       }
     },
     {
-      "query": "path:\"Реални числа\"",
+      "query": "path:\"Комплексни числа\"  ",
       "color": {
         "a": 1,
         "rgb": 11657298
       }
     },
     {
-      "query": "path:\"Естествени числа\"",
+      "query": "path:\"Ирационалните числа\"  ",
       "color": {
         "a": 1,
-        "rgb": 14701249
+        "rgb": 5431378
       }
     },
     {
-      "query": "path:\"Целите числа\"",
+      "query": "path:\"Реални числа\"  ",
       "color": {
         "a": 1,
         "rgb": 5431473
       }
     },
     {
-      "query": "path:\"Рационалните числа\"",
+      "query": "path:Полета  ",
       "color": {
         "a": 1,
         "rgb": 5419488
       }
     },
     {
-      "query": "path:Полета",
+      "query": "path:\"Естествени числа\"  ",
       "color": {
         "a": 1,
         "rgb": 5395168
       }
     },
     {
-      "query": "path:\"Комплексни числа\"",
+      "query": "path:Графи  ",
       "color": {
         "a": 1,
         "rgb": 11621088
       }
     },
     {
-      "query": "path:Графи",
+      "query": "path:\"Целите числа\"  ",
       "color": {
         "a": 1,
-        "rgb": 16777215
+        "rgb": 14701233
       }
     }
   ],
   "collapse-display": false,
   "showArrow": false,
-  "textFadeMultiplier": -1.3,
-  "nodeSizeMultiplier": 1.80989583333333,
-  "lineSizeMultiplier": 1.19739583333333,
-  "collapse-forces": false,
-  "centerStrength": 0.427083333333333,
-  "repelStrength": 12.9166666666667,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.518713248970312,
+  "repelStrength": 10,
   "linkStrength": 1,
-  "linkDistance": 226,
-  "scale": 0.42864600086853416,
-  "close": false
+  "linkDistance": 250,
+  "scale": 0.5482419108783272,
+  "close": true
 }
